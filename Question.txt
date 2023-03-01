@@ -1,0 +1,12 @@
+Questions - 
+Objective:•Practice Naive Bayes algorithm based classification.
+•Identify the predictors that can be of influence by experiment.
+Questions:
+
+1.Load the kinematics dataset as measured on mobile sensors from the file “run_or_walk.csv”. List out the columns in the dataset.
+
+2. Let the target variable ‘y’ be the activity and assign all the columns after it to ‘x’.
+
+3.Using Scikit-learn fit a Gaussian Naive Bayes model and observe the accuracy.Generate a classification report using scikitlearn
+
+4.Repeat the model once using only the acceleration values as predictors and then using only the gyro values as predictors. Comment on the difference in accuracy between both the models.
